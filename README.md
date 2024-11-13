@@ -5,9 +5,9 @@
 
 ### 문제를 해결 할 수 있는 ai task 정리
 
-번역: facebook/mbart-large-50-many-to-many-mmt
+한글을 영어로 번역
 
-이미지 생성: black-forest-labs/FLUX.1-dev
+프롬프트로 이미지 생성
 
 ### task 별 모델들을 가져와 적합한 모델찾기
 
